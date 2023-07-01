@@ -17,27 +17,38 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
 ![Alt text](Img/image.png)
 
 ### 1.2 Firmware Updates
+Connect the board to the Host Machine
+
+![Alt text](image.png)
 #### 💻 For MacOS
-##### Checking fw’s version
+-  Checking fw’s version
 ```
 $ cd /Applications/ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
 ![Alt text](Img/image-1.png)
 
-##### Update firmware
+- Update firmware
 ```
 $ ./fw-loader --update-kp3
 ```
 ![Alt text](Img/image-2.png)
 
-#### For Windowns 
-Open modus-shell 
-![Alt text](Img/image-3.png)
+#### 🖥️ For Windowns 
+- Open modus-shell 
+![Alt text](Img/image-3.png)  
 
+- Change the directory to ModusToolbox/tools_3.0/fw-loader/bin/.
+```
+$ cd ModusToolbox/tools_3.0/fw-loader/bin/
+$ ./fw-loader --device-list
+```
+![Alt text](image-1.png)
 
-
-
+- Adding the BDH Code Template:
+```
+echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml' > ~/.modustoolbox/manifest.loc
+```
 ### 1.3 Adding the BDH Code Template
 ```
 $ cd 
@@ -47,25 +58,25 @@ $ echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh
 ![Alt text](Img/image-4.png)
 
 ## 2. Eclipse IDE Development Tools and Project Creator
-### 1. Open ModusToolbox Tool 
+### 2.1. Open ModusToolbox Tool 
 ![Alt text](Img/image-5.png)
 
-### 2. Click Eclipse IDE for ModbusToolbox
+### 2.2. Click Eclipse IDE for ModbusToolbox
 ![Alt text](Img/image-6.png)
 
-### 3. Click “New Application ” and it will automatically shell to Project Creator 2.0
+### 2.3. Click “New Application ” and it will automatically shell to Project Creator 2.0
 ![Alt text](Img/image7.png)
 ![Alt text](Img/image9.png)
-### 4. Click “PSoC6 BSP s” and  following the below step
+### 2.4. Click “PSoC6 BSP s” and  following the below step
 ![Alt text](Img/image8.png)
-### 5. Go to “Getting Started”
+### 2.5. Go to “Getting Started”
 ![Alt text](Img/image11.png)
 
 
 ## 3. “Hello World and LED Blinking” Programming.
-### 1. Choose “Hello World” project and you can setting any name you want 
+### 3.1. Choose “Hello World” project and you can setting any name you want 
 ![Alt text](Img/image12.png)
-### 2. Building and running project by click 
+### 3.2. Building and running project by click 
 `Build Application` —> `[Project_Name] Program (KitProg3_MiniProg4)`
 
 ![Alt text](Img/image13.png)
