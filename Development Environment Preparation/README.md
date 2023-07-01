@@ -14,7 +14,7 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
     - Linux:ModusToolbox_1.1.0.<build>-linux-install.tar.gz
     - macOS:ModusToolbox_1.1.0.<build>-osx-install.pkg
 
-![Alt text](image.png)
+![Alt text](img/image.png)
 
 ### 1.2 Firmware Updates
 #### 💻 For MacOS
@@ -23,17 +23,17 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
 $ cd /Applications/ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
-![Alt text](image-1.png)
+![Alt text](img/image-1.png)
 
 ##### Update firmware
 ```
 $ ./fw-loader --update-kp3
 ```
-![Alt text](image-2.png)
+![Alt text](img/image-2.png)
 
 #### For Windowns 
 Open modus-shell 
-![Alt text](image-3.png)
+![Alt text](img/image-3.png)
 
 
 
@@ -44,14 +44,14 @@ $ cd
 $ cd ~/.modustoolbox/
 $ echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml' > ~/.modustoolbox/manifest.loc
 ```
-![Alt text](image-4.png)
+![Alt text](img/image-4.png)
 
 ## 2. Eclipse IDE Development Tools and Project Creator
 ### 1. Open ModusToolbox Tool 
-![Alt text](image-5.png)
+![Alt text](img/image-5.png)
 
 ### 2. Click Eclipse IDE for ModbusToolbox
-![Alt text](image-6.png)
+![Alt text](img/image-6.png)
 
 
 
