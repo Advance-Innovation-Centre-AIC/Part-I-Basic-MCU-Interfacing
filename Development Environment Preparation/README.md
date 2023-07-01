@@ -19,7 +19,7 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
 ### 1.2 Firmware Updates
 Connect the board to the Host Machine
 
-![Alt text](image.png)
+![Alt text](Img/image33.png)
 #### 💻 For MacOS
 -  Checking fw’s version
 ```
@@ -43,7 +43,7 @@ $ ./fw-loader --update-kp3
 $ cd ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
-![Alt text](image-1.png)
+![Alt text](Img/image22.png)
 
 - Adding the BDH Code Template:
 ```
