@@ -53,13 +53,20 @@ $ echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh
 ### 2. Click Eclipse IDE for ModbusToolbox
 ![Alt text](Img/image-6.png)
 
+### 3. Click “New Application ” and it will automatically shell to Project Creator 2.0
+![Alt text](Img/image7.png)
+![Alt text](Img/image9.png)
+### 4. Click “PSoC6 BSP s” and  following the below step
+![Alt text](Img/image8.png)
+### 5. Go to “Getting Started”
+![Alt text](Img/image11.png)
 
 
+## 3. “Hello World and LED Blinking” Programming.
+### 1. Choose “Hello World” project and you can setting any name you want 
+![Alt text](Img/image12.png)
+### 2. Building and running project by click 
+`Build Application` —> `[Project_Name] Program (KitProg3_MiniProg4)`
 
-
-
-
-
-
-
+![Alt text](Img/image13.png)
 
