@@ -14,7 +14,7 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
     - Linux:ModusToolbox_1.1.0.<build>-linux-install.tar.gz
     - macOS:ModusToolbox_1.1.0.<build>-osx-install.pkg
 
-![Alt text](img/image.png)
+![Alt text](Img/image.png)
 
 ### 1.2 Firmware Updates
 #### 💻 For MacOS
@@ -23,17 +23,17 @@ Go to the Cypress ModusToolbox website (www.cypress.com/modustoolbox) and downlo
 $ cd /Applications/ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
-![Alt text](img/image-1.png)
+![Alt text](Img/image-1.png)
 
 ##### Update firmware
 ```
 $ ./fw-loader --update-kp3
 ```
-![Alt text](img/image-2.png)
+![Alt text](Img/image-2.png)
 
 #### For Windowns 
 Open modus-shell 
-![Alt text](img/image-3.png)
+![Alt text](Img/image-3.png)
 
 
 
