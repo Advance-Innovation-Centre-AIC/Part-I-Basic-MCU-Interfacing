@@ -44,14 +44,14 @@ $ cd
 $ cd ~/.modustoolbox/
 $ echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml' > ~/.modustoolbox/manifest.loc
 ```
-![Alt text](img/image-4.png)
+![Alt text](Img/image-4.png)
 
 ## 2. Eclipse IDE Development Tools and Project Creator
 ### 1. Open ModusToolbox Tool 
-![Alt text](img/image-5.png)
+![Alt text](Img/image-5.png)
 
 ### 2. Click Eclipse IDE for ModbusToolbox
-![Alt text](img/image-6.png)
+![Alt text](Img/image-6.png)
 
 
 
