@@ -35,7 +35,8 @@ $ ./fw-loader --update-kp3
 ![Alt text](Img/image-2.png)
 
 #### 🖥️ For Windowns 
-- Open modus-shell 
+- Open modus-shell
+  
 ![Alt text](Img/image-3.png)  
 
 - Change the directory to ModusToolbox/tools_3.0/fw-loader/bin/.
