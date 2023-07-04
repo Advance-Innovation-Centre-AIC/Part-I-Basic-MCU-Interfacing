@@ -1,4 +1,6 @@
 # Development Enviroment Preparation
+![image](https://github.com/Advance-Innovation-Centre-AIC/Part-I-Basic-MCU-Interfacing/assets/88732241/a9cbaff6-f6a2-47f2-87ac-d4a9233b470f)
+
 ## 1. ModusToolbox Installation and Firmware Updates
 ### 1.1 ModusToolbox Installation
 #### 💻 System Requirement
