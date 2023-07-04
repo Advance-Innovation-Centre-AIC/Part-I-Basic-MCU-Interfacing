@@ -1,5 +1,14 @@
 # Development Enviroment Preparation
+## Requirement 
 ![image](https://github.com/Advance-Innovation-Centre-AIC/Part-I-Basic-MCU-Interfacing/assets/88732241/a9cbaff6-f6a2-47f2-87ac-d4a9233b470f)
+- Computer
+- Infineon PSoC 62S2 Wi-Fi BT Pioneer Kit (CY8CKIT-062S2-43012) Wireless Development Tool CY8CKIT-062S2-43012
+
+Resources  | Link
+-----------|----------------------------------
+Computer  |   💻
+Infineon PSoC 62S2 Wi-Fi BT Pioneer Kit (CY8CKIT-062S2-43012) Wireless Development Tool CY8CKIT-062S2-43012  | [Link](https://www.infineon.com/cms/en/product/evaluation-boards/cy8ckit-062s2-43012/) 
+
 
 ## 1. ModusToolbox Installation and Firmware Updates
 ### 1.1 ModusToolbox Installation
