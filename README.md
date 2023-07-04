@@ -85,39 +85,39 @@ $ echo 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh
 # 🧮 Serial Studio Installation.
 ## 💻 For windows 
 - 👉 Go to Serial Studio download link: https://serial-studio.github.io/#download and click on `Install`. 
-![Alt text](image.png)
+![Alt text](Img/serial_studio/image.png)
 
 - 👉 Choose `SerialStudio-1.1.7-Windows.exe`
-![Alt text](image-1.png)
+![Alt text](Img/serial_studio/image-1.png)
 
 - 👉 Click on `Run anyway`
-![Alt text](image-2.png)
+![Alt text](Img/serial_studio/image-2.png)
 
 - 👉 Click `Next`
-![Alt text](image-9.png)
+![Alt text](Img/serial_studio/image-9.png)
 
 - 👉 Click `Install`
-![Alt text](image-10.png)
+![Alt text](Img/serial_studio/image-10.png)
 
 - 👉 Click `Finish`
-![Alt text](image-11.png)
+![Alt text](Img/serial_studio/image-11.png)
 
 - 😲 Now you can open and use Serial Studio Program
-![Alt text](image-3.png)
+![Alt text](Img/serial_studio/image-3.png)
 
 ## 💻 For MacOS
 - Open this [link](https://github.com/Serial-Studio/Serial-Studio/releases/tag/v1.1.7) and click download SerialStudio-1.1.7-macOS.zip
-![Alt text](image-4.png)
+![Alt text](Img/serial_studio/image-4.png)
 
 - 👉 When you’ve been downloaded,  “Serial Studio” still cannot be opened in your computer due to  the firmware hasn’t verified yet.
-![Alt text](image-5.png)
+![Alt text](Img/serial_studio/image-5.png)
 
 - 👉 Click “Cancel” and go to System Settings -→ Privacy & Security  and scroll down until you see  “Security” header 
-![Alt text](image-6.png)
+![Alt text](Img/serial_studio/image-6.png)
 
 - 👉 Click “Open Anyway”  to unlock the verification from firmware 
-![Alt text](image-7.png)
+![Alt text](Img/serial_studio/image-7.png)
 
 
 - 😲 Now you can open you program anytime
-![Alt text](image-8.png)
+![Alt text](Img/serial_studio/image-8.png)
